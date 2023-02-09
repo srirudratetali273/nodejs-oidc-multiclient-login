@@ -1,2 +1,2 @@
 # nodejs-oidc-multiclient-login
-POC on OKTA for Multiple Open ID Client Authentication.
+NodeJS sample - OKTA for Multiple Open ID Client Authentication.
